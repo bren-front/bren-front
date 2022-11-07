@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Brenda Gardiele 👋
 
-- 🔭 Hoje eu estou trabalho como Analista de Planejamento
+- 🔭 Atualmente trabalho como Analista de Planejamento MIS
 - 🌱 Estudando: Gradução em Analise e Desenvolvimento de Sistemas
 - 🤔 Quero me tornar uma programadora front end
 - 😄 Pronouns: ela / dela
